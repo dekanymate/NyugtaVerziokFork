@@ -27,6 +27,15 @@ public class Nyugta1 {
         System.out.println("******************");
         System.out.println("        CÉG");
         System.out.println("******************");
+        
+        String csillagok = "******************";
+        String vonal = "==================";
+        System.out.println(csillagok);
+        System.out.println("     Nyugta 1");
+        System.out.println(csillagok);
+        
+        int tetel1 = 350, tetel2 = 90, tetel3 = 650;
+        
     }
     
 }
